@@ -10,3 +10,6 @@ Tech Stack & Alat yang Dipelajari
 - **Bahasa:** C++, Python, Structured Text (PLC)
 - **Software/Framework:** ROS2, Arduino IDE, MATLAB, Gazebo Simulator
 - **Hardware:** Arduino, Raspberry Pi, ESP32, Industrial PLC Module
+
+Menjadi Pemateri Webinar
+-Kuasi semua materi terkait technical
