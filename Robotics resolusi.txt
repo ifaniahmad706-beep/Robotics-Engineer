@@ -1,0 +1,12 @@
+ ROBOTICS & AUTOMATION RESOLUTION
+
+Target & Komitmen Belajar
+- Menguasai pemrograman robotika tingkat lanjut menggunakan ROS2 dan C++
+- Mengembangkan minimal 2 proyek robot otonom (autonomous mobile robot) tahun ini
+- Mempelajari integrasi sistem PLC industri dan otomasi pabrik secara mendalam
+- Konsisten mendokumentasikan setiap proyek coding dan wiring robot ke GitHub
+
+Tech Stack & Alat yang Dipelajari
+- **Bahasa:** C++, Python, Structured Text (PLC)
+- **Software/Framework:** ROS2, Arduino IDE, MATLAB, Gazebo Simulator
+- **Hardware:** Arduino, Raspberry Pi, ESP32, Industrial PLC Module
